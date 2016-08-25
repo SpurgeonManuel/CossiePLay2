@@ -1,0 +1,111 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content{
+	text-align:left;
+	font-family:"nunito";
+}
+
+#navbar{
+	text-align:center;
+	font-size:18px;
+	background-color:#473B3B;
+}
+
+#navbar ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+#navbar li{
+	float:left;
+}
+
+#navbar li a{
+	display:inline-block;
+	color: white;
+	text-align:center;
+	padding: 14px 16px;
+	text-decoration:none;
+	font-size: 18px;
+	font-weight:300;
+	font-family:"roboto slab";
+}
+
+#sideheading{
+	text-align:left;
+	font-size:24px;
+	font-stretch:ultra-condensed;
+	font-weight: 200;
+	color:#404040;
+	font-family:"lemonada";
+}
+
+#banner{
+	font-family:"pacifico";
+	text-align:center;
+	font-size:45px;
+	font-stretch:ultra-condensed;
+	font-weight:200;
+	color:#050505;
+}
+	
+	#footer {
+		text-align:center;
+		position:relative;
+		right:0;
+		bottom:0;
+		left:0;
+	}
+	
+	#indeximage{
+		max-width:100%;
+		height:auto;
+		display:block;
+		margin:5px auto;
+	}
+	
+	body{
+		padding-left:8em;
+		padding-right:8em;
+	}
+	
+	#signuplist{
+		font-size:18px;
+		font-family:"nunito";
+	}
+	
+	#aboutimage{
+		max-width:100%;
+		height:auto;
+		display:block;
+		margin:5px auto;
+	}
+	
+	#orderlist{
+		font-family:"nunito";
+		font-size:18px;
+		color:#000000;
+		font-weight:500;
+		border: 2px solid black;
+	}
+	
+
+	#signupimage{
+		max-width:100%;
+		height:auto;
+		display:block;
+		margin:5px auto;
+	}
+	
+	#announcementimage{
+		
+		max-width:100%;
+		height:auto;
+		display:block;
+		margin:5px auto;
+	}
+	
+	

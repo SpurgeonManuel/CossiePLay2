@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CossiePlay</title>
+<!-- TemplateEndEditable -->
+<link href="../css/mainstyle.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lemonada" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="navbar">
+<ul>
+  <li><a href="../index.html">Home</a></li>
+  <li><a href="../about.html">About</a></li>
+  <li><a href="../contact.html">Contact</a></li>
+  <li><a href="../announcements.html">Announcements</a></li>
+  <li><a href="../link.html">Link</a></li>
+  <li><a href="../signup.html">Sign Up</a></li>
+  <li><a href="../order.html">Order</a></li>
+  
+</ul>
+</div>
+<h1 id="banner"><big> CossiePlay </big></h1>
+
+<!-- TemplateBeginEditable name="EditRegion4" -->
+<h2>
+</h2>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<p id="content">
+</p>
+<!-- TemplateEndEditable -->
+</body>
+
+
+<p id="footer">
+  <address>&copy; Copyright Spurgeon Manuel,2016 All Rights Reserved www.cossieplay.com</address>
+</p>
+</html>
